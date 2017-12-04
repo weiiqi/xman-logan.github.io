@@ -3,3 +3,5 @@ type: git
 repo: <GitHub https://xman-logan.github.io>
 branch: [master]
 url: "https://xman-logan.github.io"
+
+theme: jekyll-theme-hacker
